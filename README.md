@@ -6,6 +6,7 @@ A collection of LeetCode questions and my solutions
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Mohit-K90/Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Mohit-K90/Solutions/tree/master/0015-3sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mohit-K90/Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0219-contains-duplicate-ii](https://github.com/Mohit-K90/Solutions/tree/master/0219-contains-duplicate-ii) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions and my solutions
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Mohit-K90/Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Mohit-K90/Solutions/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/Mohit-K90/Solutions/tree/master/0125-valid-palindrome) |
 ## String
@@ -41,4 +43,8 @@ A collection of LeetCode questions and my solutions
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Mohit-K90/Solutions/tree/master/0238-product-of-array-except-self) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Mohit-K90/Solutions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
