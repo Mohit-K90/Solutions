@@ -8,6 +8,7 @@ A collection of LeetCode questions and my solutions
 | ------- |
 | [0011-container-with-most-water](https://github.com/Mohit-K90/Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Mohit-K90/Solutions/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/Mohit-K90/Solutions/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mohit-K90/Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Mohit-K90/Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0219-contains-duplicate-ii](https://github.com/Mohit-K90/Solutions/tree/master/0219-contains-duplicate-ii) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions and my solutions
 | ------- |
 | [0011-container-with-most-water](https://github.com/Mohit-K90/Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Mohit-K90/Solutions/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/Mohit-K90/Solutions/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/Mohit-K90/Solutions/tree/master/0125-valid-palindrome) |
 ## String
 |  |
@@ -40,6 +42,7 @@ A collection of LeetCode questions and my solutions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Mohit-K90/Solutions/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mohit-K90/Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Prefix Sum
 |  |
@@ -53,4 +56,12 @@ A collection of LeetCode questions and my solutions
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Mohit-K90/Solutions/tree/master/0128-longest-consecutive-sequence) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Mohit-K90/Solutions/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Mohit-K90/Solutions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
