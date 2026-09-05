@@ -17,12 +17,14 @@ A collection of LeetCode questions and my solutions
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Mohit-K90/Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/Mohit-K90/Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0219-contains-duplicate-ii](https://github.com/Mohit-K90/Solutions/tree/master/0219-contains-duplicate-ii) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/Mohit-K90/Solutions/tree/master/4080-smallest-missing-multiple-of-k) |
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Mohit-K90/Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Mohit-K90/Solutions/tree/master/0219-contains-duplicate-ii) |
 ## Two Pointers
 |  |
@@ -34,6 +36,7 @@ A collection of LeetCode questions and my solutions
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Mohit-K90/Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/Mohit-K90/Solutions/tree/master/0125-valid-palindrome) |
 ## Sorting
 |  |
