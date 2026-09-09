@@ -9,6 +9,7 @@ A collection of LeetCode questions and my solutions
 | [0011-container-with-most-water](https://github.com/Mohit-K90/Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Mohit-K90/Solutions/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/Mohit-K90/Solutions/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/Mohit-K90/Solutions/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mohit-K90/Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Mohit-K90/Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0219-contains-duplicate-ii](https://github.com/Mohit-K90/Solutions/tree/master/0219-contains-duplicate-ii) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions and my solutions
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mohit-K90/Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/Mohit-K90/Solutions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Mohit-K90/Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0219-contains-duplicate-ii](https://github.com/Mohit-K90/Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Mohit-K90/Solutions/tree/master/0242-valid-anagram) |
@@ -43,6 +45,7 @@ A collection of LeetCode questions and my solutions
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mohit-K90/Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/Mohit-K90/Solutions/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Mohit-K90/Solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Mohit-K90/Solutions/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Mohit-K90/Solutions/tree/master/0424-longest-repeating-character-replacement) |
@@ -51,6 +54,7 @@ A collection of LeetCode questions and my solutions
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Mohit-K90/Solutions/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/Mohit-K90/Solutions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Mohit-K90/Solutions/tree/master/0242-valid-anagram) |
 ## Dynamic Programming
 |  |
