@@ -15,6 +15,7 @@ A collection of LeetCode questions and my solutions
 | [0219-contains-duplicate-ii](https://github.com/Mohit-K90/Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Mohit-K90/Solutions/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Mohit-K90/Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0560-subarray-sum-equals-k](https://github.com/Mohit-K90/Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/Mohit-K90/Solutions/tree/master/4080-smallest-missing-multiple-of-k) |
 ## Hash Table
 |  |
@@ -26,6 +27,7 @@ A collection of LeetCode questions and my solutions
 | [0242-valid-anagram](https://github.com/Mohit-K90/Solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Mohit-K90/Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/Mohit-K90/Solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0560-subarray-sum-equals-k](https://github.com/Mohit-K90/Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Mohit-K90/Solutions/tree/master/0567-permutation-in-string) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/Mohit-K90/Solutions/tree/master/4080-smallest-missing-multiple-of-k) |
 ## Sliding Window
@@ -68,6 +70,7 @@ A collection of LeetCode questions and my solutions
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Mohit-K90/Solutions/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/Mohit-K90/Solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Greedy
 |  |
 | ------- |
