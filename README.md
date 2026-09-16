@@ -16,6 +16,7 @@ A collection of LeetCode questions and my solutions
 | [0238-product-of-array-except-self](https://github.com/Mohit-K90/Solutions/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Mohit-K90/Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/Mohit-K90/Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0792-binary-search](https://github.com/Mohit-K90/Solutions/tree/master/0792-binary-search) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/Mohit-K90/Solutions/tree/master/4080-smallest-missing-multiple-of-k) |
 ## Hash Table
 |  |
@@ -107,4 +108,8 @@ A collection of LeetCode questions and my solutions
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Mohit-K90/Solutions/tree/master/0347-top-k-frequent-elements) |
+## Binary Search
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/Mohit-K90/Solutions/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
