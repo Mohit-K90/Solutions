@@ -16,6 +16,7 @@ A collection of LeetCode questions and my solutions
 | [0219-contains-duplicate-ii](https://github.com/Mohit-K90/Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Mohit-K90/Solutions/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Mohit-K90/Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Mohit-K90/Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Mohit-K90/Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/Mohit-K90/Solutions/tree/master/0792-binary-search) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/Mohit-K90/Solutions/tree/master/4080-smallest-missing-multiple-of-k) |
@@ -113,5 +114,6 @@ A collection of LeetCode questions and my solutions
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Mohit-K90/Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Mohit-K90/Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Mohit-K90/Solutions/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
