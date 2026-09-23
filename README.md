@@ -68,6 +68,7 @@ A collection of LeetCode questions and my solutions
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Mohit-K90/Solutions/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/Mohit-K90/Solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mohit-K90/Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Prefix Sum
 |  |
@@ -116,4 +117,12 @@ A collection of LeetCode questions and my solutions
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Mohit-K90/Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Mohit-K90/Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Mohit-K90/Solutions/tree/master/0792-binary-search) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Mohit-K90/Solutions/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Mohit-K90/Solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
