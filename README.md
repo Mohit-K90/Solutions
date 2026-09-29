@@ -127,4 +127,12 @@ A collection of LeetCode questions and my solutions
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Mohit-K90/Solutions/tree/master/0070-climbing-stairs) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Mohit-K90/Solutions/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Mohit-K90/Solutions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
