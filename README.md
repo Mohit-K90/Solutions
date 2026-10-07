@@ -30,6 +30,7 @@ A collection of LeetCode questions and my solutions
 | [0219-contains-duplicate-ii](https://github.com/Mohit-K90/Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Mohit-K90/Solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Mohit-K90/Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/Mohit-K90/Solutions/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/Mohit-K90/Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/Mohit-K90/Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Mohit-K90/Solutions/tree/master/0567-permutation-in-string) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions and my solutions
 | [0049-group-anagrams](https://github.com/Mohit-K90/Solutions/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Mohit-K90/Solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Mohit-K90/Solutions/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/Mohit-K90/Solutions/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/Mohit-K90/Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Mohit-K90/Solutions/tree/master/0567-permutation-in-string) |
 ## Sorting
@@ -109,6 +111,7 @@ A collection of LeetCode questions and my solutions
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Mohit-K90/Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/Mohit-K90/Solutions/tree/master/0383-ransom-note) |
 ## Quickselect
 |  |
 | ------- |
