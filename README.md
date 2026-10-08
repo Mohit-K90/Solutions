@@ -9,6 +9,7 @@ A collection of LeetCode questions and my solutions
 | [0011-container-with-most-water](https://github.com/Mohit-K90/Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Mohit-K90/Solutions/tree/master/0015-3sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Mohit-K90/Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0036-valid-sudoku](https://github.com/Mohit-K90/Solutions/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/Mohit-K90/Solutions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Mohit-K90/Solutions/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mohit-K90/Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions and my solutions
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mohit-K90/Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/Mohit-K90/Solutions/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Mohit-K90/Solutions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Mohit-K90/Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0219-contains-duplicate-ii](https://github.com/Mohit-K90/Solutions/tree/master/0219-contains-duplicate-ii) |
@@ -142,4 +144,8 @@ A collection of LeetCode questions and my solutions
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Mohit-K90/Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Mohit-K90/Solutions/tree/master/0206-reverse-linked-list) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/Mohit-K90/Solutions/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
