@@ -29,6 +29,7 @@ A collection of LeetCode questions and my solutions
 | [0036-valid-sudoku](https://github.com/Mohit-K90/Solutions/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Mohit-K90/Solutions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Mohit-K90/Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0205-isomorphic-strings](https://github.com/Mohit-K90/Solutions/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/Mohit-K90/Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Mohit-K90/Solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Mohit-K90/Solutions/tree/master/0347-top-k-frequent-elements) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions and my solutions
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mohit-K90/Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Mohit-K90/Solutions/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Mohit-K90/Solutions/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/Mohit-K90/Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Mohit-K90/Solutions/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Mohit-K90/Solutions/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/Mohit-K90/Solutions/tree/master/0424-longest-repeating-character-replacement) |
