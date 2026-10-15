@@ -21,6 +21,7 @@ A collection of LeetCode questions and my solutions
 | [0540-single-element-in-a-sorted-array](https://github.com/Mohit-K90/Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Mohit-K90/Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/Mohit-K90/Solutions/tree/master/0792-binary-search) |
+| [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Mohit-K90/Solutions/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Mohit-K90/Solutions/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/Mohit-K90/Solutions/tree/master/4080-smallest-missing-multiple-of-k) |
 ## Hash Table
@@ -155,7 +156,7 @@ A collection of LeetCode questions and my solutions
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Mohit-K90/Solutions/tree/master/0036-valid-sudoku) |
-## BoyerâMoore Majority Vote Algorithm
+## BoyerÃ¢ÂÂMoore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Mohit-K90/Solutions/tree/master/0169-majority-element) |
