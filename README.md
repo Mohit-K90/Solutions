@@ -135,6 +135,7 @@ A collection of LeetCode questions and my solutions
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Mohit-K90/Solutions/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/Mohit-K90/Solutions/tree/master/0070-climbing-stairs) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Mohit-K90/Solutions/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## Memoization
@@ -144,19 +145,21 @@ A collection of LeetCode questions and my solutions
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Mohit-K90/Solutions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Mohit-K90/Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Mohit-K90/Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Mohit-K90/Solutions/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Mohit-K90/Solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Mohit-K90/Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Mohit-K90/Solutions/tree/master/0206-reverse-linked-list) |
 ## Matrix
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Mohit-K90/Solutions/tree/master/0036-valid-sudoku) |
-## BoyerÃ¢ÂÂMoore Majority Vote Algorithm
+## BoyerÃÂ¢ÃÂÃÂMoore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Mohit-K90/Solutions/tree/master/0169-majority-element) |
