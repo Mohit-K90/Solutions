@@ -13,6 +13,7 @@ A collection of LeetCode questions and my solutions
 | [0036-valid-sudoku](https://github.com/Mohit-K90/Solutions/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/Mohit-K90/Solutions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Mohit-K90/Solutions/tree/master/0049-group-anagrams) |
+| [0055-jump-game](https://github.com/Mohit-K90/Solutions/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mohit-K90/Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Mohit-K90/Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Mohit-K90/Solutions/tree/master/0169-majority-element) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions and my solutions
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Mohit-K90/Solutions/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/Mohit-K90/Solutions/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Mohit-K90/Solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mohit-K90/Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Prefix Sum
@@ -93,6 +95,7 @@ A collection of LeetCode questions and my solutions
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Mohit-K90/Solutions/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Mohit-K90/Solutions/tree/master/0055-jump-game) |
 ## Union-Find
 |  |
 | ------- |
@@ -161,7 +164,7 @@ A collection of LeetCode questions and my solutions
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Mohit-K90/Solutions/tree/master/0036-valid-sudoku) |
-## BoyerÃÂÃÂ¢ÃÂÃÂÃÂÃÂMoore Majority Vote Algorithm
+## BoyerÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMoore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Mohit-K90/Solutions/tree/master/0169-majority-element) |
