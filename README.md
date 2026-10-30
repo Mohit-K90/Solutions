@@ -17,6 +17,7 @@ A collection of LeetCode questions and my solutions
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mohit-K90/Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Mohit-K90/Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Mohit-K90/Solutions/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Mohit-K90/Solutions/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/Mohit-K90/Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Mohit-K90/Solutions/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Mohit-K90/Solutions/tree/master/0347-top-k-frequent-elements) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions and my solutions
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Mohit-K90/Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/Mohit-K90/Solutions/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/Mohit-K90/Solutions/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/Mohit-K90/Solutions/tree/master/0189-rotate-array) |
 | [0567-permutation-in-string](https://github.com/Mohit-K90/Solutions/tree/master/0567-permutation-in-string) |
 ## String
 |  |
@@ -142,6 +144,7 @@ A collection of LeetCode questions and my solutions
 | ------- |
 | [0002-add-two-numbers](https://github.com/Mohit-K90/Solutions/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/Mohit-K90/Solutions/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/Mohit-K90/Solutions/tree/master/0189-rotate-array) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Mohit-K90/Solutions/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## Memoization
 |  |
@@ -164,7 +167,7 @@ A collection of LeetCode questions and my solutions
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Mohit-K90/Solutions/tree/master/0036-valid-sudoku) |
-## BoyerÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMoore Majority Vote Algorithm
+## BoyerÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMoore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Mohit-K90/Solutions/tree/master/0169-majority-element) |
