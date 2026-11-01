@@ -18,6 +18,7 @@ A collection of LeetCode questions and my solutions
 | [0128-longest-consecutive-sequence](https://github.com/Mohit-K90/Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Mohit-K90/Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Mohit-K90/Solutions/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/Mohit-K90/Solutions/tree/master/0198-house-robber) |
 | [0219-contains-duplicate-ii](https://github.com/Mohit-K90/Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Mohit-K90/Solutions/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Mohit-K90/Solutions/tree/master/0347-top-k-frequent-elements) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions and my solutions
 | [0055-jump-game](https://github.com/Mohit-K90/Solutions/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Mohit-K90/Solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mohit-K90/Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0198-house-robber](https://github.com/Mohit-K90/Solutions/tree/master/0198-house-robber) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -167,7 +169,7 @@ A collection of LeetCode questions and my solutions
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Mohit-K90/Solutions/tree/master/0036-valid-sudoku) |
-## BoyerÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMoore Majority Vote Algorithm
+## BoyerÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMoore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Mohit-K90/Solutions/tree/master/0169-majority-element) |
